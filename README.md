@@ -1,8 +1,11 @@
-# Welcome to my Userprofile @Evolinox
+# Hej 🙂
 
-Core Projects:
-- SpookBot
-- UnrealEngine Project
+I'm a student from southern Germany currently studying applied computer science! 
+
+A short overview about some of my repositories:
+- SpookBot, a Discord Community Bot built with JDA (Java)
+- JS_TicTacToe, a Website where i learned the basics of HTML/CSS and JS
+- some private stuff...
 
 <!---
 Spooki02/Spooki02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
