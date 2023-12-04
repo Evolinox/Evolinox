@@ -3,8 +3,8 @@
 I'm a student from southern Germany currently studying applied computer science! 
 
 A short overview about some of my repositories:
-- SpookBot, a Discord Community Bot built with JDA (Java)
-- JS_TicTacToe, a Website where i learned the basics of HTML/CSS and JS
+- [SpookBot](https://github.com/Evolinox/SpookBot), a Discord Community Bot built with JDA (Java)
+- [JS_TicTacToe](https://github.com/Evolinox/JS_TicTacToe), a Website where i learned the basics of HTML/CSS and JS
 - some private stuff...
 
 <!---
