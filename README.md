@@ -3,9 +3,9 @@
 I'm a student from southern Germany currently studying applied computer science! 
 
 A short overview about some of my repositories:
+- [Railtrack](https://github.com/Evolinox/Railtrack), a Tracker for Railvehicles built with Tauri v2 and Vue.js 
+- [ZugDatenEinsteller](https://github.com/Evolinox/ZugDatenEinsteller), a small program to help you with entering the correct train data
 - [SpookBot](https://github.com/Evolinox/SpookBot), a Discord Community Bot built with JDA (Java)
-- [BarCounter](https://github.com/Evolinox/BarCounter), A self-service bar management app
-- [Digital](https://github.com/Evolinox/Digital), my Fork of [hneemanns Digital](https://github.com/hneemann/Digital) to add some specific macOS-Things
 - some private stuff...
 
 <!---
