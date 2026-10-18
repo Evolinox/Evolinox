@@ -1,0 +1,5 @@
+Update v0.1.1
+//TEXTBLOCK//
+<Headline>Update v0.1.1 - Spiegel eingebaut</>
+
+<SubHeadline>Neues Feature: Funktionierender Spiegel</>
