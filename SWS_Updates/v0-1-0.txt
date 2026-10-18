@@ -1,0 +1,13 @@
+Update v0.1.0
+//TEXTBLOCK//
+<Headline>Update v0.3.1 - In-Game Webbrowser</>
+
+<SubHeadline>Neues Feature: Webbrowser als Monitor-Modell</>
+
+In dieser Version haben wir die Interaktion mit elektronischen Geräten in der Spielwelt erweitert. Monitor-Modelle (3D-Meshes) können ab sofort als dynamische Bildschirme genutzt werden, um externe Webseiten, Dokumentationen oder HTML-Inhalte live im Spiel anzuzeigen.
+
+<SubHeadline>Änderungen & Neuerungen:</>
+
+• <Bold>Webbrowser auf 3D-Monitoren:</> Monitor-Modelle besitzen nun eine interaktive Textur, die den Inhalt eines integrierten Webbrowser-Widgets wiedergibt.
+• <Bold>URL-Eingabe:</> Über ein UI-Panel kann eine beliebige Adresse (HTTP/HTTPS) eingegeben werden, die direkt auf dem Bildschirm geladen wird.
+• <Bold>Optimierung:</> Der Browser-Stream wird automatisch pausiert, wenn sich der Spieler nicht im Sichtfeld oder in der Nähe des Monitors befindet.
